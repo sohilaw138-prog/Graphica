@@ -18,23 +18,13 @@ This project focuses on developing a complete brand identity for Wings & Go, a n
 
 ---
 
-## Project Plan (5 Weeks)
+## Project Plan
 
 ###  Research and Analysis
-
-
 ### Visual Identity 
-
-
 ### Main Designs 
-
-
 ### Complementary Projects
-
-
 ### Review and Finalization
-
-
 ### Final Presentation
 ---
 
