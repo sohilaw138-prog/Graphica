@@ -21,8 +21,11 @@ This project focuses on developing a complete brand identity for Wings & Go, a n
 ## Project Plan
 
 ###  Research and Analysis
+- Audience Personas
 ### Visual Identity 
+- Logo Design
 ### Main Designs 
+- Poster
 ### Complementary Projects
 ### Review and Finalization
 ### Final Presentation
