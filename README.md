@@ -29,6 +29,8 @@ This project focuses on developing a complete brand identity for Wings & Go, a n
 ### Complementary Projects
 ### Review and Finalization
 ### Final Presentation
+https://drive.google.com/file/d/1bFdbs84LvYTJoc3Lu_tt5AXi_6Z7O2fp/view?usp=share_link
+
 ---
 
 ##  Instructor
